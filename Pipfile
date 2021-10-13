@@ -1,0 +1,4 @@
+[packages]
+pymysql = "*"
+flask-bcrypt = "*"
+flask = "*"
